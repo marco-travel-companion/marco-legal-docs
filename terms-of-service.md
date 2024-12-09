@@ -2,7 +2,7 @@
 
 *Effective Date: 08-12-2024*
 
-Welcome to Marco: A Travel Companion! We are excited to offer you a location-based, AI-guided exploration experience designed to make your travels immersive, engaging, and meaningful. Marco (“the App”, “we”, “us”, “our”) provides personalized, Large Language Model (LLM)-generated guides for various locations, helping you discover the world like never before.
+Welcome to Marco: A Travel Companion! We are excited to offer you a new way to explore cities – with knowledgeable and tireless travel companion. Marco (“the App”, “we”, “us”, “our”) will tell you about the main locations of a city and answer all the questions you may have about them, or any question about the history and culture of the city you are visiting.
 
 By using Marco, you (“the user”, “your”) confirm that you have read, understood, and agree to comply with these Terms of Service (“Terms”), including any future updates. If you do not agree to any part of these Terms, you must refrain from using the App.
 
