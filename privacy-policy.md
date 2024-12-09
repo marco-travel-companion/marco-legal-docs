@@ -2,7 +2,7 @@
 
 *Effective Date: 08-12-2024*
 
-Marco: A Travel Companion (“the App”, “we”, “our”, “us”) is committed to respecting your privacy and ensuring compliance with the European General Data Protection Regulation 2016/679 (“GDPR”). This Privacy Policy explains what personal data we collect, how we use it, and how we protect it. By using the App, you consent to the processing of your data as outlined in this Privacy Policy.
+Marco (“the App”, “we”, “our”, “us”) is committed to respecting your privacy and ensuring compliance with the European General Data Protection Regulation 2016/679 (“GDPR”). This Privacy Policy explains what personal data we collect, how we use it, and how we protect it. By using the App, you consent to the processing of your data as outlined in this Privacy Policy.
 
 ## 1. Information We Collect
 
