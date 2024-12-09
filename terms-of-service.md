@@ -65,4 +65,4 @@ b. These Terms are governed by and interpreted in accordance with the laws of Po
 
 
 ## 9. Contact Us
-If you have questions, concerns or suggestions about these Terms, please contact us at [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com)m.
+If you have questions, concerns or suggestions about these Terms, please contact us at [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com).
