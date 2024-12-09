@@ -9,4 +9,5 @@ Having issues or questions? Contact us at:
 
 ## Privacy & Terms
 
-For privacy policy and terms of service, please visit [link to privacy policy]
+- Privacy Policy: https://github.com/marco-travel-companion/marco-legal-docs/blob/main/privacy-policy.md
+- Terms of Service: https://github.com/marco-travel-companion/marco-legal-docs/blob/main/terms-of-service.md
