@@ -56,6 +56,7 @@ a. Under GDPR, you have the right to:
 6. Data Portability: Request a copy of your data in a machine-readable format.
 7. Lodge a Complaint: File a complaint with your local Data Protection Authority. 
 8. Withdraw Consent: As we rely on consent to process your personal data, you can withdraw that consent at any time.
+
 b. To exercise any of the rights above, please contact us at [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com). Proof of identity may be required. We will respond within one month.
 
 
