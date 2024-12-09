@@ -47,7 +47,7 @@ The App integrates with Apple Maps and Google Maps for navigation. Please note t
 
 
 ## 6. Your Rights
-### a. Under GDPR, you have the right to:
+a. Under GDPR, you have the right to:
 1. Access: Know what personal information we process.
 2. Rectification: Request correction of inaccuracies.
 3. Deletion: Request deletion of your personal data, subject to legal requirements.
@@ -56,7 +56,7 @@ The App integrates with Apple Maps and Google Maps for navigation. Please note t
 6. Data Portability: Request a copy of your data in a machine-readable format.
 7. Lodge a Complaint: File a complaint with your local Data Protection Authority. 
 8. Withdraw Consent: As we rely on consent to process your personal data, you can withdraw that consent at any time.
-### b. To exercise any of the rights above, please contact us at [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com). Proof of identity may be required. We will respond within one month.
+b. To exercise any of the rights above, please contact us at [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com). Proof of identity may be required. We will respond within one month.
 
 
 ## 7. Permissions
