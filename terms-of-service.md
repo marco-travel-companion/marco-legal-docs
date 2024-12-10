@@ -77,6 +77,7 @@ We value your privacy and are committed to safeguarding the personal information
 
 ## 8. Final Provisions
 a. If any part of these Terms is found to be invalid or illegal, the rest of the Terms will remain unaffected. 
+
 b. These Terms are governed by and interpreted in accordance with the laws of Portugal. In the event of a dispute, we encourage you to seek resolution through our customer service via our email [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com) before initiating any legal proceedings. If the dispute cannot be resolved amicably, you shall address the exclusive jurisdiction of the courts in Portugal.
 
 
