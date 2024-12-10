@@ -18,6 +18,7 @@ b. To access additional locations beyond the free credit, the user must:
 2. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
 
 
+
 ## 2. Purchases and Refunds
 a. The App provides two paid access options:
 1. A one-day pass for EUR 7.99, which unlocks all locations for 24 hours and allows up to ten interactions with the LLM-guide per location during that period.
@@ -30,6 +31,7 @@ c. Purchases are processed through the App Store. Once the purchase is confirmed
 d. If you are dissatisfied with the product, you may request a refund by emailing us within 72 hours of pass expiration. To request a refund, contact us at marcotravelcompanion@gmail.com with the email used for signing up, date of purchase, and reason for the refund request. Refunds are made through Apple’s refund system.
 
 
+
 ## 3. Intellectual Property and Content Rights
 a. The initial location-specific guide text and all LLM-generated content are the property of the App.
 
@@ -38,6 +40,7 @@ b. The user may share the LLM-generated content for personal use only.
 c. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
 
 d. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
+
 
 
 ## 4. User Responsibilities and Conduct
@@ -54,6 +57,7 @@ e. We reserve the right to terminate or suspend your access to the App without p
 f. If you fail to comply with the above obligations, you may be held responsible for any resulting loss or damage. The App shall not be liable for any consequences, loss, or damage arising from such misuse or unauthorized access.
 
 
+
 ## 5. Limitations of Liability
 a. While we make every effort to provide accurate and helpful content, the App’s LLM-generated responses may contain factual inaccuracies.
 
@@ -64,6 +68,7 @@ c. The App is not responsible for any failures or delays in performance due to c
 d. The App does not guarantee uninterrupted access to the App and is not liable for any disruptions, delays, or outages in service, whether due to technical issues, maintenance, or events beyond its control.
 
 
+
 ## 6. Links to Third-Party Services
 a. The App provides access to third-party services, specifically Apple Maps and Google Maps, for navigation purposes. Additionally, pass purchases are handled directly through the Apple Store.
 
@@ -71,14 +76,17 @@ b. Your use of these third-party services is subject to their respective terms a
 c. All transactions and interactions with these third-party services are solely between you and the third party.
 
 
+
 ## 7. Data Protection
 We value your privacy and are committed to safeguarding the personal information you share. The App believes that you have the right to be informed about its practices regarding the collection of information when you use the App. The App's data collection practices, policies, and the types of information collected are detailed in the Privacy Policy.
+
 
 
 ## 8. Final Provisions
 a. If any part of these Terms is found to be invalid or illegal, the rest of the Terms will remain unaffected. 
 
 b. These Terms are governed by and interpreted in accordance with the laws of Portugal. In the event of a dispute, we encourage you to seek resolution through our customer service via our email [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com) before initiating any legal proceedings. If the dispute cannot be resolved amicably, you shall address the exclusive jurisdiction of the courts in Portugal.
+
 
 
 ## 9. Contact Us
