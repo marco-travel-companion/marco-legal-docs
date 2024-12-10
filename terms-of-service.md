@@ -73,6 +73,7 @@ d. The App does not guarantee uninterrupted access to the App and is not liable 
 a. The App provides access to third-party services, specifically Apple Maps and Google Maps, for navigation purposes. Additionally, pass purchases are handled directly through the Apple Store.
 
 b. Your use of these third-party services is subject to their respective terms and conditions and privacy policies. The App is not responsible for any issues, damages, or losses resulting from your use of or reliance on these services.
+
 c. All transactions and interactions with these third-party services are solely between you and the third party.
 
 
