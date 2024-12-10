@@ -17,6 +17,7 @@ c. Usage Data: We collect anonymized data about your interactions with the App t
 d. Communications Data: If you contact us for support, we collect data you provide via email ([marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com)) to resolve your inquiry.
 
 
+
 ## 2. How We Use Your Data
 a. We use your data for the following purposes:
 1. To provide and deliver App features, such as unlocking paid content.
@@ -26,8 +27,10 @@ a. We use your data for the following purposes:
 5. To monitor and protect the App’s security, including fraud prevention.
 
 
+
 ## 3. Data Sharing
 We do not share your personal data with third parties unless required by law, for fraud prevention, or to protect our legal rights.
+
 
 
 ## 4. Retention of Personal Information
@@ -37,8 +40,10 @@ a. Data Retention Period: Personal data is retained only as long as necessary to
 b. Deletion: You may request deletion of your data by contacting [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com). We will securely delete your data within 30 days, provided no legal need exists to retain it.
 
 
+
 ## 5. Links to other Websites
 The App integrates with Apple Maps and Google Maps for navigation. Please note that these services are not covered by this Privacy Policy, and we recommend reviewing their privacy policies before use.
+
 
 
 ## 6. Your Rights
@@ -55,6 +60,7 @@ a. Under GDPR, you have the right to:
 b. To exercise any of the rights above, please contact us at [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com). Proof of identity may be required. We will respond within one month.
 
 
+
 ## 7. Permissions
 
 a. Location Data: Required for map functionality. This data is not stored. You can disable location access in your device settings.
@@ -64,12 +70,15 @@ b. Microphone Access: Required for Text-to-Speech features. You can disable this
 c. Account creation: You can use the free version of the App without signing up. Access to locked locations requires Google or Apple sign-in.
 
 
+
 ## 8. Data Security
 We implement robust technical and organizational measures to safeguard your personal information against unauthorized access, loss, misuse, or alteration. While we strive to maintain the highest standards of security, no system is entirely foolproof. In the unlikely event of a security breach, we will act promptly to address the issue and minimize any potential impact.
 
 
+
 ## 9. Changes to This Privacy Policy
 We may update this Privacy Policy periodically. Significant changes will be notified in the App, with the “Effective Date” updated at the top of this document.
+
 
 
 ## 10. Final Provisions
@@ -77,6 +86,7 @@ We may update this Privacy Policy periodically. Significant changes will be noti
 a. Severability: If any part of this Privacy Policy is found invalid, the remaining provisions remain unaffected. 
 
 b. Governing Law: This Privacy Policy is governed by Portuguese law. In the event of a dispute, we encourage you to seek resolution through our customer service via our email [marcotravelcompanion@gmail.com](mailto:marcotravelcompanion@gmail.com) before initiating any legal proceedings. If the dispute cannot be resolved amicably, you shall address the exclusive jurisdiction of the courts in Portugal.
+
 
 
 ## 11. Contact us
