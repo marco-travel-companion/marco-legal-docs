@@ -1,6 +1,6 @@
 # Marco: A Travel Companion
 
-Explore a city with a personal AI-guide. Discover the rich history and culture of the city's iconic locations in a conversation guided by your curiosity.
+Explore a city with a personal AI-guide. Discover the rich history and culture of a city's iconic locations in a conversation guided by your curiosity.
 
 ## Support
 
