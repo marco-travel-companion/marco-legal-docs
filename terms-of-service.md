@@ -12,6 +12,7 @@ These Terms represent the complete agreement between you and the App regarding y
 
 ## 1. Access, Registration, and App Usage
 a. Registration is not required for the initial use of the App. The user is provided with one free location credit, allowing the access any one of the free locations available.
+
 b. To access additional locations beyond the free credit, the user must:
 1. Purchase a pass to unlock the desired locations.
 2. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
