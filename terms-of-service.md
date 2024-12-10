@@ -27,10 +27,12 @@ d. If you are dissatisfied with the product, you may request a refund by emailin
 
 
 ## 3. Intellectual Property and Content Rights
-### a. The initial location-specific guide text and all LLM-generated content are the property of the App.
-### b. The user may share the LLM-generated content for personal use only.
-### c. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
-### d. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
+a. The initial location-specific guide text and all LLM-generated content are the property of the App.
+
+
+b. The user may share the LLM-generated content for personal use only.
+c. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
+d. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
 
 
 ## 4. User Responsibilities and Conduct
