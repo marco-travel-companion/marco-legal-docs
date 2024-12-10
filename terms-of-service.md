@@ -27,19 +27,19 @@ d. If you are dissatisfied with the product, you may request a refund by emailin
 
 
 ## 3. Intellectual Property and Content Rights
-a. The initial location-specific guide text and all LLM-generated content are the property of the App.
-b. The user may share the LLM-generated content for personal use only.
-c. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
-d. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
+### a. The initial location-specific guide text and all LLM-generated content are the property of the App.
+### b. The user may share the LLM-generated content for personal use only.
+### c. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
+### d. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
 
 
 ## 4. User Responsibilities and Conduct
-a. You are fully responsible for the proper use of, and access to, the App and your account in accordance with the laws of Portugal, as well as the principles of good faith, morality, generally accepted customs, and public order.
-b. You shall not use your account or the App for illegal purposes or activities that could damage, disable, affect, or impair the App and its contents.
-c. You are responsible for safeguarding your account credentials and ensuring that they remain confidential. Any activity conducted through your account is your responsibility.
-d. Please notify us immediately if you suspect any unauthorized access or use of your account.
-e. We reserve the right to terminate or suspend your access to the App without prior notice if we suspect a breach of these Terms, fraudulent activity, or other misuse of the App.
-f. If you fail to comply with the above obligations, you may be held responsible for any resulting loss or damage. The App shall not be liable for any consequences, loss, or damage arising from such misuse or unauthorized access.
+### a. You are fully responsible for the proper use of, and access to, the App and your account in accordance with the laws of Portugal, as well as the principles of good faith, morality, generally accepted customs, and public order.
+### b. You shall not use your account or the App for illegal purposes or activities that could damage, disable, affect, or impair the App and its contents.
+### c. You are responsible for safeguarding your account credentials and ensuring that they remain confidential. Any activity conducted through your account is your responsibility.
+### d. Please notify us immediately if you suspect any unauthorized access or use of your account.
+### e. We reserve the right to terminate or suspend your access to the App without prior notice if we suspect a breach of these Terms, fraudulent activity, or other misuse of the App.
+### f. If you fail to comply with the above obligations, you may be held responsible for any resulting loss or damage. The App shall not be liable for any consequences, loss, or damage arising from such misuse or unauthorized access.
 
 
 ## 5. Limitations of Liability
