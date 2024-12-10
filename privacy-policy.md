@@ -6,7 +6,7 @@ Marco (“the App”, “we”, “our”, “us”) is committed to respecting 
 
 ## 1. Information We Collect
 
-a. _Account Information:_
+a. Account Information:
 1. When you sign up with Google, we receive your email address, name, profile picture, and language preferences, but we do not use or store your profile picture.
 2. When you sign up with Apple, we receive your email address (or a relay email if you choose to hide it), and your name.
 
