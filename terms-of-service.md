@@ -1,6 +1,6 @@
 # Terms of Service for Marco: A Travel Companion
 
-*Effective Date: 08-12-2024*
+*Effective Date: 18-12-2024*
 
 Welcome to Marco! We are excited to offer you a new way to explore cities – with a knowledgeable and tireless travel companion. Marco (“the App”, “we”, “us”, “our”) will tell you about the main locations of a city and answer all the questions you may have about them, or about the history and culture of the city you are visiting.
 
@@ -21,8 +21,8 @@ b. To access additional locations beyond the free credit, the user must:
 
 ## 2. Purchases and Refunds
 a. The App provides two paid access options:
-1. A one-day pass for EUR 7.99, which unlocks all locations for 24 hours and allows up to ten interactions with the LLM-guide per location during that period.
-2. A three-day pass for EUR 14.99, which unlocks all locations for 72 hours and allows up to twenty interactions with the LLM-guide per location during that period.
+1. A one-day pass for EUR 3.99, which unlocks all locations for 24 hours and allows up to ten interactions with the LLM-guide per location during that period.
+2. A three-day pass for EUR 6.99, which unlocks all locations for 72 hours and allows up to twenty interactions with the LLM-guide per location during that period.
 
 b. Pass prices and features may change. Any changes will apply to new purchases only.
 
