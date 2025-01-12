@@ -1,28 +1,29 @@
 # Terms of Service for Marco: A Travel Companion
 
-*Effective Date: 18-12-2024*
+*Effective Date: 12-01-2025*
 
-Welcome to Marco! We are excited to offer you a new way to explore cities – with a knowledgeable and tireless travel companion. Marco (“the App”, “we”, “us”, “our”) will tell you about the main locations of a city and answer all the questions you may have about them, or about the history and culture of the city you are visiting.
+Welcome! Marco is a new way to explore cities – with AI as your guide. Marco will tell you about the most iconic locations of the city you are visting and answer all the questions you may have about the city's history and culture.
 
-By using Marco, you (“the user”, “your”) confirm that you have read, understood, and agree to comply with these Terms of Service (“Terms”), including any future updates. If you do not agree to any part of these Terms, you must refrain from using the App.
+By using Marco (“the App”, “we”, “us”, “our”), you (“the user”, “your”) confirm that you have read, understood, and agree to comply with these Terms of Service (“Terms”), including any future updates. If you do not agree to any part of these Terms, you must refrain from using the App.
 
 We may, at our discretion, update or modify these Terms at any time. Any changes will be notified on the App, with the date of the most recent revision indicated at the top of this page. By continuing to use the App after the changes take effect, you agree to the updated Terms.
 
 These Terms represent the complete agreement between you and the App regarding your access to and use of the App. Additionally, you may be bound by separate Terms and conditions when using Third-Party Services.
 
 ## 1. Access, Registration, and App Usage
-a. Registration is not required for the initial use of the App. The user is provided with five free location credits, allowing the access at any five of the available locations.
+a. Registration is not required for the initial use of the App. The user is provided with five free location credits, allowing the access at any five of the available locations. The general question tab can also be freely used.
 
 b. To access additional locations beyond the five free credits, the user must:
-1. Purchase a pass to unlock the desired locations.
-2. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
+1. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
+2. Purchase a pass to unlock all locations for the selected period of time.
 
 
 
 ## 2. Purchases and Refunds
-a. The App provides two paid access options:
-1. A one-day pass for EUR 3.99, which unlocks all locations for 24 hours and allows up to ten interactions with the LLM-guide per location during that period.
-2. A three-day pass for EUR 6.99, which unlocks all locations for 72 hours and allows up to twenty interactions with the LLM-guide per location during that period.
+a. The App provides three paid access options:
+1. A one-day pass for EUR 2.99, which unlocks all locations for 24 hours and allows up to ten questions to the LLM-guide per location during that period.
+2. A two-day pass for EUR 4.99, which unlocks all locations for 48 hours and allows up to twenty questions to the LLM-guide per location during that period.
+2. A three-day pass for EUR 6.99, which unlocks all locations for 72 hours and allows up to twenty questions to the LLM-guide per location during that period.
 
 b. Pass prices and features may change. Any changes will apply to new purchases only.
 
