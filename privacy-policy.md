@@ -1,6 +1,6 @@
 # Privacy Policy for Marco: A Travel Companion
 
-*Effective Date: 12-01-2025*
+*Effective Date: 27-01-2025*
 
 Marco (“the App”, “we”, “our”, “us”) is committed to respecting your privacy and ensuring compliance with the European General Data Protection Regulation 2016/679 (“GDPR”). This Privacy Policy explains what personal data we collect, how we use it, and how we protect it. By using the App, you consent to the processing of your data as outlined in this Privacy Policy.
 
@@ -67,7 +67,9 @@ a. Location Data: Required for map functionality. This data is not stored. You c
 
 b. Microphone Access: Required for Speech-to-Text feature. You can disable this permission in your device settings.
 
-c. Account creation: You can use the free version of the App without signing up. Access to locations beyond free trial requires Google or Apple sign-in and purchase of a pass.
+c. Camera Access: Required for you to add photos to the chat interface. You can disable this permission in your device settings.
+
+d. Account creation: You can use the free version of the App without signing up. Access to locations beyond free trial requires Google or Apple sign-in and purchase of a pass.
 
 
 
