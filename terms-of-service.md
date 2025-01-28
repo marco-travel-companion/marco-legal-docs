@@ -1,6 +1,6 @@
 # Terms of Service for Marco: A Travel Companion
 
-*Effective Date: 12-01-2025*
+*Effective Date: 27-01-2025*
 
 Welcome! Marco is a new way to explore cities – with AI as your guide. Marco will tell you about the most iconic locations of the city you are visting and answer all the questions you may have about the city's history and culture.
 
@@ -11,9 +11,9 @@ We may, at our discretion, update or modify these Terms at any time. Any changes
 These Terms represent the complete agreement between you and the App regarding your access to and use of the App. Additionally, you may be bound by separate Terms and conditions when using Third-Party Services.
 
 ## 1. Access, Registration, and App Usage
-a. Registration is not required for the initial use of the App. The user is provided with five free location credits, allowing the access at any five of the available locations. The general question tab can also be freely used.
+a. Registration is not required for the initial use of the App. The user is provided with three free location credits, allowing the access at any five of the available locations. The general question tab can also be freely used.
 
-b. To access additional locations beyond the five free credits, the user must:
+b. To access additional locations beyond the three free credits, the user must:
 1. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
 2. Purchase a pass to unlock all locations for the selected period of time.
 
