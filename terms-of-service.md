@@ -11,7 +11,7 @@ We may, at our discretion, update or modify these Terms at any time. Any changes
 These Terms represent the complete agreement between you and the App regarding your access to and use of the App. Additionally, you may be bound by separate Terms and conditions when using Third-Party Services.
 
 ## 1. Access, Registration, and App Usage
-a. Registration is not required for the initial use of the App. The user is provided with three free location credits, allowing the access at any five of the available locations. The general question tab can also be freely used.
+a. Registration is not required for the initial use of the App. The user is provided with three free location credits, allowing the access at any three of the available locations. The general question tab can also be freely used.
 
 b. To access additional locations beyond the three free credits, the user must:
 1. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
