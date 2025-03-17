@@ -1,8 +1,8 @@
 # Terms of Service for Marco: A Travel Companion
 
-*Effective Date: 27-01-2025*
+*Effective Date: 17-03-2025*
 
-Welcome! Marco is a new way to explore cities – with AI as your guide. Marco will tell you about the most iconic locations of the city you are visting and answer all the questions you may have about the city's history and culture.
+Welcome! Marco is an AI-powered travel guide that helps you explore cities, discover landmarks, find restaurants, and plan your visits through interactive conversations about local history, culture, and attractions.
 
 By using Marco (“the App”, “we”, “us”, “our”), you (“the user”, “your”) confirm that you have read, understood, and agree to comply with these Terms of Service (“Terms”), including any future updates. If you do not agree to any part of these Terms, you must refrain from using the App.
 
@@ -11,19 +11,21 @@ We may, at our discretion, update or modify these Terms at any time. Any changes
 These Terms represent the complete agreement between you and the App regarding your access to and use of the App. Additionally, you may be bound by separate Terms and conditions when using Third-Party Services.
 
 ## 1. Access, Registration, and App Usage
-a. Registration is not required for the initial use of the App. The user is provided with three free location credits, allowing the access at any three of the available locations. The general question tab can also be freely used.
+a. The App offers a 3-day free trial that can be accessed with or without registration, agreeing to these Terms and the Privacy Policy. During this trial period, users have full access to all App features.
 
-b. To access additional locations beyond the three free credits, the user must:
-1. Register by signing up with Google or Apple account and agreeing to these Terms and the Privacy Policy.
-2. Purchase a pass to unlock all locations for the selected period of time.
+b. To continue using the App after the trial period expires, users must:
+1. Register by signing up with a Google or Apple account.
+2. Purchase a pass (3, 7, or 30 days) to enable all App features for the selected period of time.
+
+c. All content generated during the free trial period or while using a pass, including conversations, bookmarks, recommended places, remains accessible to the user even after the trial or pass expires.
 
 
 
 ## 2. Purchases and Refunds
 a. The App provides three paid access options:
-1. A one-day pass for EUR 2.99, which unlocks all locations for 24 hours and allows up to ten questions to the LLM-guide per location during that period.
-2. A two-day pass for EUR 4.99, which unlocks all locations for 48 hours and allows up to twenty questions to the LLM-guide per location during that period.
-2. A three-day pass for EUR 6.99, which unlocks all locations for 72 hours and allows up to twenty questions to the LLM-guide per location during that period.
+1. A three-day pass for EUR 2.99, which unlocks all App features for 72 hours.
+2. A seven-day pass for EUR 4.99, which unlocks all App features for 7 days.
+3. A thirty-day pass for EUR 12.99, which unlocks all App features for 30 days.
 
 b. Pass prices and features may change. Any changes will apply to new purchases only.
 
@@ -34,13 +36,11 @@ d. If you are dissatisfied with the product, you may request a refund by emailin
 
 
 ## 3. Intellectual Property and Content Rights
-a. The initial location-specific guide text and all LLM-generated content are the property of the App.
+a. The user may share the LLM-generated content for personal use only.
 
-b. The user may share the LLM-generated content for personal use only.
+b. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
 
-c. All copyrights and intellectual property rights in the App and its content are owned by the App and protected by applicable copyright laws.
-
-d. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
+c. Any reproduction, copying, publication, or unauthorized use of the App's content, in whole or in part, is prohibited and may result in legal consequences.
 
 
 
@@ -71,11 +71,15 @@ d. The App does not guarantee uninterrupted access to the App and is not liable 
 
 
 ## 6. Links to Third-Party Services
-a. The App provides access to third-party services, specifically Apple Maps and Google Maps, for navigation purposes. Additionally, pass purchases are handled directly through the Apple Store.
+a. The App uses Google Maps and Google Places APIs for location and place information. Additionally, the App provides access to Apple Maps and Google Maps applications for navigation purposes when users request directions.
 
-b. Your use of these third-party services is subject to their respective terms and conditions and privacy policies. The App is not responsible for any issues, damages, or losses resulting from your use of or reliance on these services.
+b. By using this App, you are bound by Google's Terms of Service (https://policies.google.com/terms) and Google Privacy Policy (https://policies.google.com/privacy). The App uses Google Maps API(s) and incorporates Google's services as a core functionality.
 
-c. All transactions and interactions with these third-party services are solely between you and the third party.
+c. When choosing to get directions, users will be redirected to either Apple Maps or Google Maps applications based on their selection. Pass purchases are handled directly through the Apple Store.
+
+d. Your use of these third-party services is subject to their respective terms and conditions and privacy policies. The App is not responsible for any issues, damages, or losses resulting from your use of or reliance on these services.
+
+e. All transactions and interactions with these third-party services are solely between you and the third party.
 
 
 
