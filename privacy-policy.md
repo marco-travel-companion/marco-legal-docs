@@ -40,8 +40,12 @@ b. Deletion: You may request deletion of your data by contacting [marcotravelcom
 
 
 
-## 5. Links to other Websites
-The App integrates with Apple Maps and Google Maps for navigation. Please note that these services are not covered by this Privacy Policy, and we recommend reviewing their privacy policies before use.
+## 5. Third-Party Services and APIs
+a. The App uses Google Maps API(s) for core functionality including location services, place information, and navigation features. By using our App, you are also bound by Google's Privacy Policy (https://policies.google.com/privacy).
+
+b. The App also integrates with Apple Maps for navigation purposes. These third-party services are not covered by this Privacy Policy, and we recommend reviewing their respective privacy policies before use.
+
+c. Your use of Google Maps API(s) through our App is subject to Google's Privacy Policy. We encourage you to review Google's Privacy Policy to understand how Google processes your data when you use our App.
 
 
 
