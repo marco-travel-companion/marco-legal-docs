@@ -1,6 +1,6 @@
 # Privacy Policy for Marco: A Travel Companion
 
-*Effective Date: 27-01-2025*
+*Effective Date: 17-03-2025*
 
 Marco (“the App”, “we”, “our”, “us”) is committed to respecting your privacy and ensuring compliance with the European General Data Protection Regulation 2016/679 (“GDPR”). This Privacy Policy explains what personal data we collect, how we use it, and how we protect it. By using the App, you consent to the processing of your data as outlined in this Privacy Policy.
 
@@ -10,7 +10,7 @@ a. Account Information:
 1. When you sign up with Google, we receive your email address, name, profile picture, and language preferences, but we do not use or store your profile picture.
 2. When you sign up with Apple, we receive your email address (or a relay email if you choose to hide it), and your name.
 
-b. Conversations with the LLM-guide: We store the conversations you have with the LLM-guide to enhance the App’s functionality, ensure quality, and improve future interactions. These conversations are linked to your account but are not shared externally.
+b. Conversations with the AI Guide: We store your conversations with the AI guide, including the location where each query was made, to enhance the App's functionality, ensure service quality, and improve future interactions. If signed up, these conversations are linked to your account but are not shared externally.
 
 c. Usage Data: We collect anonymized data about your interactions with the App to help monitor and improve its performance. This data is not linked to your personal information.
 
@@ -20,11 +20,10 @@ d. Communications Data: If you contact us for support, we collect data you provi
 
 ## 2. How We Use Your Data
 a. We use your data for the following purposes:
-1. To provide and deliver App features, such as unlocking paid content.
-2. To improve the App's functionality and your experience based on your feedback and usage patterns.
-3. To provide location-specific content.
-4. To respond to inquiries, send notifications, and update you about features.
-5. To monitor and protect the App’s security, including fraud prevention.
+1. To provide and deliver App features, such location-based recommendations.
+2. To improve the App's functionality and your experience based on feedback and usage patterns.
+3. To respond to inquiries, send notifications, and update you about features.
+4. To monitor and protect the App’s security, including fraud prevention.
 
 
 
@@ -63,7 +62,7 @@ b. To exercise any of the rights above, please contact us at [marcotravelcompani
 
 ## 7. Permissions
 
-a. Location Data: Required for map functionality. This data is not stored. You can disable location access in your device settings.
+a. Location Data: Required for map functionality. The user's location is stored whenever a query is made. You can disable location access in your device settings.
 
 b. Microphone Access: Required for Speech-to-Text feature. You can disable this permission in your device settings.
 
